@@ -9,7 +9,7 @@ public class hashMapBasicOp {
         //using put function to add to the collection
         map1.put(1,"Virendra Sehwag");
         map1.put(2,"Rahul Dravid");
-        map1.put(3,"Sachin Tendulkar");
+        map1.put(3,"Sachin Legend Tendulkar");
         map1.put(4,"Jadeja");
         map1.put(5,"Kaif");
         map1.put(6,"Ravi Ashwin");
