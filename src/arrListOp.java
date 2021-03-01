@@ -1,3 +1,5 @@
+
+//basic opeartions in array list
 import java.util.*;
 public class arrListOp {
     public static void main(String args[]){

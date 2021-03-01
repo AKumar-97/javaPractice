@@ -42,7 +42,7 @@ public class hashMapBasicOp {
             {
                 if(count == 1)
                 {
-                    System.out.println("Batsmen of the team :");
+                    System.out.println("Batsmen of the team are :");
                     count++;
                 }
                 System.out.println(map1.get(i));

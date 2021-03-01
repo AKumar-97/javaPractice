@@ -1,3 +1,4 @@
+//array list of user-defined objects
 import java.io.*;
 import java.util.*;
 public class arrListUserDefinedObject {
